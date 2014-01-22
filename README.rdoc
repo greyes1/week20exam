@@ -1,5 +1,5 @@
 == README
 
-THIS IS TO ADD COMMITS
+"Something appropriate"
 
 <tt>rake doc:app</tt>.
